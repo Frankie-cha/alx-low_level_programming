@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - Entry point 
- * Description - a program that prints the alphabet in lowercase, and then in uppercase
+ * main - Entry point
+ * Description -  Program that prints  alphabet in lowercase and  uppercase
  * Return: Always 0 (success)
  */
 int main(void)
-{ 
+{
 	char e;
 
 	char f;
