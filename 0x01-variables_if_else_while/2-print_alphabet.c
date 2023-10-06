@@ -5,8 +5,9 @@
  * Return: 0 (success)
  */
 int main(void)
-{ 
+{
 	char d;
+
 	d = 'a';
 	while
 		(d <= 'z') {
