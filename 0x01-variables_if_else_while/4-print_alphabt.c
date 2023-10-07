@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description - A program that prints all program except q and e
- * Return: Always 0 (success)
+ * Description  'A program that prints all alphabets except q and e'
+ * Return: Always 0 
  */
 int main(void)
 {
@@ -10,7 +10,7 @@ int main(void)
 
 	while (n <= 122)
 	{
-		if (n == 103 || n == 113)
+		if (n == 101 || n == 113)
 		{
 			n++;
 			continue;
