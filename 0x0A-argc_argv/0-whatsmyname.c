@@ -3,7 +3,7 @@
 /**
  * main -  program that prints its name
  * @argc: number of argument
- * @argc: array of argument
+ * @argv: array of argument
  * Return: Always 0 (success)
  */
 int main(int argc __attribute__((unused)), char *argv[])
