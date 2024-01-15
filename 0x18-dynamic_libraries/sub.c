@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include <stdio.h>
 /**
  * sub - subtraction of two integers 
  * a: first int
