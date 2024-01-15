@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 /**
  * div - division of two integers 
  * a: first int
