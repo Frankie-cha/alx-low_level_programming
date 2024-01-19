@@ -1,5 +1,5 @@
-#include <stdlib.h>
 /**
+ * add - add two integers 
  * a: first int
  * b: second int
  * Return: addition
